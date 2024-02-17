@@ -8,12 +8,12 @@ This repository contains a collection of interactive data visualizations created
 ## Tableau Public
 The Tableau visualizations are hosted on Tableau Public and can be accessed using the following links:
 
-1. [Chart 1](screenshot-1_bar_graph): A visualization that provides a breakdown between the male and female employees working in a company each year, starting from 
+1. [Chart 1(bar graph)](https://public.tableau.com/views/TASK1completed/Chart1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link): A visualization that provides a breakdown between the male and female employees working in a company each year, starting from 
    1990.
-2. [Chart 2](screenshot-2_area_graph): Compare the no. of male managers to the no. of female managers from different departments for each year, starting from 1990.
-3. [Chart 3](screenshot-3_line_chart): Compare the average salary of female v/s male employees in the entire company untill year 2002 and add a filter allowing you 
+2. [Chart 2(area graph)](https://public.tableau.com/views/TASK2completed/Chart2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link): Compare the no. of male managers to the no. of female managers from different departments for each year, starting from 1990.
+3. [Chart 3(line chart)](https://public.tableau.com/views/TASK3completed/Chart3?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link): Compare the average salary of female v/s male employees in the entire company untill year 2002 and add a filter allowing you 
    to see that per each department.
-4. [Chart 4](screenshot-4_double_bar_chart): Create a SQL stored procedure that will allow you to obtain the average male and female salary per department within a 
+4. [Chart 4(double bar graph)](https://public.tableau.com/views/TASK4completed/Chart4?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link): Create a SQL stored procedure that will allow you to obtain the average male and female salary per department within a 
    certain salary range. Let this range be definied by 2 values that user can insert when calling the procedure.
 
    
